@@ -10,3 +10,4 @@ for i in range(len(t2)):
     t3.append(t1[i])
 #affiche le tableau
 print(t3)
+print("hello world")
